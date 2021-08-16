@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  justify-content: center;
+  background-color: rgb(108, 212, 233);
+}
+
+h1 {
+  font-weight: normal;
+  color: rgb(0, 0, 0);
+  padding: 15px;
+}
